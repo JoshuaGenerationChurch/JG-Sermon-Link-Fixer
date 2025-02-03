@@ -103,4 +103,4 @@ if ( ! empty( $request['congregations-tags-select'] ) ) {
 	}
 } else {
 	error_log( 'JG Sermon Link Fixer: No congregations-tags-select field found in the request.' );
-}s
+}
