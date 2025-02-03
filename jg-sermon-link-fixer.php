@@ -3,7 +3,7 @@
  * Plugin Name:       JG Sermon Link Fixer
  * Plugin URI:        https://yourwebsite.com/plugins/jg-sermon-link-fixer
  * Description:       Custom plugin to update audio file links from JetFormBuilder submissions, remove 'Protected:' prefix from titles, and enable shortcode rendering in JetFormBuilder forms.
- * Version:           1.0.1
+ * Version:           1.0.0
  * Author:            Ruan Pienaar
  * Author URI:        https://joshgen.org
  * License:           GPL v2 or later
