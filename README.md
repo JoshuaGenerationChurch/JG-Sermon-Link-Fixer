@@ -1,6 +1,6 @@
 # JG Sermon Link Fixer 🎤🔧
 
-JG Sermon Link Fixer is a custom WordPress plugin designed to streamline your sermon post management. It automatically converts Dropbox audio file links into direct-download links, updates post meta with the corrected audio URL, and sets the featured image based on congregation data. Additionally, it removes the "Protected:" prefix from password-protected posts and enables shortcode rendering in JetFormBuilder forms.
+JG Sermon Link Fixer is a custom WordPress plugin designed to streamline your sermon post management. It automatically converts Dropbox audio file links into direct-download links, updates post meta with the corrected audio URL, and sets the featured image based on congregation data. 
 
 ## Features
 
