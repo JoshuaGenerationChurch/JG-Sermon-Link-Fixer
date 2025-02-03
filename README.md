@@ -1,1 +1,1 @@
-# -JG-Sermon-Link-Fixer
+# JG-Sermon-Link-Fixer
